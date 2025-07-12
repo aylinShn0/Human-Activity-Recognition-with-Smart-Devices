@@ -7,7 +7,7 @@ KUHAR verisetinin subseti ile test yapıldığında değerlerde değişim yaşan
 Yöntem dosyaları veri setlerinin tamamı ile yazılmıştır. Test dosyaları ise sadece kuhar veriseti için subset kullanılarak yazılmıştır.
 
 Kayıtlı modellerden bazılarının boyutları büyük olduğu için git lfs ile yüklenmiştir. Repo clone edilmeden önce git lfs install yapılmalıdır. Kuhar veri setinin subset hali de git lfs ile yüklenmiştir. 
-verisetinin tamamı için link :
+verisetinin tamamı için link :https://drive.google.com/file/d/1irKuv7Kj7K8HN34uiEdZ-0UOA50wHvGu/view?usp=drive_link 
 
 HOCAM TRAİN VE TEST DOSYALARINI AYRI TUTMAYA ÇALIŞTIM FAKAT PCA VE STANDARDİZASYON YAPMAYA ÇALIŞTIĞIMDA TEST DOSYALARI HATA VERDİ. BU DURUMU DA BİR TÜRLÜ ÇÖZEMEDİM. YÖNTEM1 İSİMLİ DOSYALARIN İÇİNDE HEM TRAİN HEM TEST YAPTIM. İKİ DOSYANIN TOPLAM ÇALIŞMA SÜRESİ YAKLAŞIK 10-13DK SÜRÜYOR. KU-HAR_YONTEM1 DOSYASINDA VERİSETİNİN TAM HALİNİN PATH İ BULUNMAKTA AMA BURAYA TAM HALİNİ ATAMADIĞIM İÇİN SUBSET HALİNİ ATTIM. 
 
