@@ -16,4 +16,5 @@ KU-HAR_YONTEM1 DOSYASINDA SUBSET HALİNDE OKUDUĞUM KISMI DA YORUM SATIRI OLARAK
 
 REFERENCES:
 https://www.kaggle.com/datasets/niloy333/kuhar/data
+
 https://www.cis.fordham.edu/wisdm/dataset.php
