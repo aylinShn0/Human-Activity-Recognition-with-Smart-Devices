@@ -1,0 +1,2 @@
+dataset/KU-HAR/3.Time_domain_subsamples/KU-HAR_time_domain_subsamples_20750x300.csv filter=lfs diff=lfs merge=lfs -text
+models/*.joblib filter=lfs diff=lfs merge=lfs -text
