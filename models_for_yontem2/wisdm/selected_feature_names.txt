@@ -1,0 +1,15 @@
+y_std
+y_min
+y_mad
+x_std
+z_std
+x_mad
+z_mean
+z_mad
+y_max
+z_median
+y_mean
+z_energy
+z_rms
+y_median
+z_min
